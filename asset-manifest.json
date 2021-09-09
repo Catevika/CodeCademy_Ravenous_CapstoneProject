@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CodeCademy_Ravenous_CapstoneProject/static/css/main.36b9acc5.chunk.css",
+    "main.js": "/CodeCademy_Ravenous_CapstoneProject/static/js/main.ad290617.chunk.js",
+    "main.js.map": "/CodeCademy_Ravenous_CapstoneProject/static/js/main.ad290617.chunk.js.map",
+    "runtime-main.js": "/CodeCademy_Ravenous_CapstoneProject/static/js/runtime-main.0e14ddaa.js",
+    "runtime-main.js.map": "/CodeCademy_Ravenous_CapstoneProject/static/js/runtime-main.0e14ddaa.js.map",
+    "static/js/2.07416545.chunk.js": "/CodeCademy_Ravenous_CapstoneProject/static/js/2.07416545.chunk.js",
+    "static/js/2.07416545.chunk.js.map": "/CodeCademy_Ravenous_CapstoneProject/static/js/2.07416545.chunk.js.map",
+    "index.html": "/CodeCademy_Ravenous_CapstoneProject/index.html",
+    "precache-manifest.dcd71f0e8f864f505e80744dc69f2253.js": "/CodeCademy_Ravenous_CapstoneProject/precache-manifest.dcd71f0e8f864f505e80744dc69f2253.js",
+    "service-worker.js": "/CodeCademy_Ravenous_CapstoneProject/service-worker.js",
+    "static/css/main.36b9acc5.chunk.css.map": "/CodeCademy_Ravenous_CapstoneProject/static/css/main.36b9acc5.chunk.css.map",
+    "static/js/2.07416545.chunk.js.LICENSE.txt": "/CodeCademy_Ravenous_CapstoneProject/static/js/2.07416545.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/CodeCademy_Ravenous_CapstoneProject/static/media/background_search_mobile.5d0905e6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e14ddaa.js",
+    "static/js/2.07416545.chunk.js",
+    "static/css/main.36b9acc5.chunk.css",
+    "static/js/main.ad290617.chunk.js"
+  ]
+}
