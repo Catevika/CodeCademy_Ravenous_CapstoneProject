@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eeed5cb8b411b6bc945852f5ec3ed740",
+    "revision": "8ad5fc9b2c4d538d9bca62875dbb353d",
     "url": "/CodeCademy_Ravenous_CapstoneProject/index.html"
   },
   {
-    "revision": "46f5d6d9462f81921520",
+    "revision": "47905bfe062c27431372",
     "url": "/CodeCademy_Ravenous_CapstoneProject/static/css/main.36b9acc5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/CodeCademy_Ravenous_CapstoneProject/static/js/2.07416545.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "46f5d6d9462f81921520",
-    "url": "/CodeCademy_Ravenous_CapstoneProject/static/js/main.ad290617.chunk.js"
+    "revision": "47905bfe062c27431372",
+    "url": "/CodeCademy_Ravenous_CapstoneProject/static/js/main.af8e49e7.chunk.js"
   },
   {
     "revision": "9eb423fb7a8f518ea871",
