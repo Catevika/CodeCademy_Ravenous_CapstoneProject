@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/CodeCademy_Ravenous_CapstoneProject/precache-manifest.f32158a0fb506c2cb4444a3c8a43b20c.js"
+  "/CodeCademy_Ravenous_CapstoneProject/precache-manifest.b52d47bf3878a6448d593ef89c4258d5.js"
 );
 
 self.addEventListener('message', (event) => {
